@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Felix Eligbue
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Flutter, React js, Node js, React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me philixbob@gmail.com 
 - Whatsapp/Call +2348108850572
