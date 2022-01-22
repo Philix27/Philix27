@@ -2,7 +2,8 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me philixbob@gmail.com
+- 📫 How to reach me philixbob@gmail.com 
+- Whatsapp/Call +2348108850572
 
 <!---
 Felix Eligbue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
