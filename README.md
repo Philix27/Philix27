@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix Eligbue
-- 👀 I’m interested in Flutter, React js, Node js, React Native
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flutter, React js, Next.js and Node js
+- 💞️ I’m looking to collaborate on projects in flutter, react/next js or node js
 - 📫 How to reach me philixbob@gmail.com 
 - Whatsapp/Call +2348108850572
 
