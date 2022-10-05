@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Felix Eligbue
-- 👀 I’m interested in Flutter, React js, Next.js and Node js
-- 💞️ I’m looking to collaborate on projects in flutter, react/next js or node js
-- 📫 How to reach me philixbob@gmail.com 
-- Whatsapp/Call +2348108850572
-- [website - philix.tech](https://philix.tech)
+👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on modern and innovative projects. 
+
+### You can reach me at
+- 📧 Email: contact@philix.tech 
+- ☎ Call: +2348108850572
+- Whatsapp: +2348108850572
+- [🌐  Visit Portfolio - www.philix.tech](https://philix.tech)
+
+### Tech Stack
+- Flutter
+- Next.js
+- Node.js
+
+### Database
+- Firebase
+- Mongodb
+- Sql
+
+
+
 
 <!---
 Felix Eligbue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
