@@ -74,11 +74,11 @@
 - ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-Github Stats
-![Philix's GitHub stats](https://github-readme-stats.vercel.app/api?username=philix27&show_icons=true&theme=tokyonight&count_private=true)
+### Github Stats
+![Philix's GitHub stats](https://github-readme-stats.vercel.app/api?username=philix27&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true)
 
 ### Top used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philix27)](https://github.com/philix27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philix27&count_private=true)](https://github.com/philix27/github-readme-stats)
 
 <!---
 Felix Eligbue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
