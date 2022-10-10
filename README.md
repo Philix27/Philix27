@@ -1,7 +1,7 @@
-![alt text for screen readers](https://github.com/Philix27/Philix27/blob/main/pexels-pixabay-270348.jpg?raw=true "Text to show on mouseover")
+![alt text for screen readers](https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "Banner")
                                                                              
 
-👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on modern and innovative projects. 
+👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on innovative projects especially on mobile apps using Flutter Framework. 
 
 ### You can reach me at
 - 📧 Email: contact@philix.tech 
