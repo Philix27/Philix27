@@ -1,7 +1,7 @@
 ![alt text for screen readers](https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "Banner")
                                                                              
 
-👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on innovative projects especially on mobile apps using Flutter Framework. 
+👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on innovative projects especially on mobile apps using Framework. 
 
 ### You can reach me at
 - 📧 Email: contact@philix.tech 
@@ -31,6 +31,11 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+### Mobile Dev
+![Next JS](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Web Frameworks
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,6 +55,8 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Hosting
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -76,6 +83,10 @@
 
 ### Github Stats
 ![Philix's GitHub stats](https://github-readme-stats.vercel.app/api?username=philix27&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true)
+
+### Workspaces
+- ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
 
 ### Top used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philix27&count_private=true)](https://github.com/philix27/github-readme-stats)
