@@ -4,8 +4,7 @@
 👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on innovative projects. 
 
 ### You can reach me at
-- 📧 Email: contact@philix.tech 
--  philixbob@gmail.com
+- 📧 Email: philixbob@gmail.com
 - ☎ Call: +2348108850572
 - Whatsapp: +2348108850572
 - [🌐  Visit Portfolio - www.philix.tech](https://philix.tech)
