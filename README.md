@@ -7,7 +7,7 @@
 - 📧 Email: philixbob@gmail.com
 - ☎ Call: +2348108850572
 - Whatsapp: +2348108850572
-- [🌐  Visit Portfolio - www.philix.tech](https://philix.tech)
+- [🌐  Visit Portfolio - www.philix.dev](https://philix.dev)
 
 ### Socials
   ![Whatsapp:](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
