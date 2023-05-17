@@ -89,8 +89,8 @@
 - ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
-### Top used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philix27&count_private=true)](https://github.com/Philix27/github-readme-stats)
+<!-- ### Top used languages -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philix27&count_private=true)](https://github.com/Philix27/github-readme-stats) -->
 
 <!---
 Felix Eligbue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
