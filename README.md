@@ -1,4 +1,4 @@
-![alt text for screen readers](https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "Banner")
+<!-- ![alt text for screen readers](https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "Banner") -->
                                                                              
 
 👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on innovative projects. 
