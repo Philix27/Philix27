@@ -10,13 +10,6 @@
 - [🌐  Visit Portfolio - www.philix.dev](https://philix.dev)
 
 
-### Github Stats
-![Philix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philix27&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true)
-
-### Workspaces
-- ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-
 <!-- ### Top used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philix27&count_private=true)](https://github.com/Philix27/github-readme-stats) -->
 
