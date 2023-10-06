@@ -9,6 +9,15 @@
 - Whatsapp: +2348108850572
 - [🌐  Visit Portfolio - www.philix.dev](https://philix.dev)
 
+### Languages
+- Typescript, Javscript, Dart, Golang & Rust
+
+### Frameworks
+- Frontend: NextJS
+- Backend: NestJS, NodeJS
+- Mobile: Flutter
+- Backend:  Go Fiber
+- WASM
 
 <!-- ### Top used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philix27&count_private=true)](https://github.com/Philix27/github-readme-stats) -->
