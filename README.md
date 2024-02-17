@@ -4,10 +4,10 @@
 👋 Hi, I’m Felix Eligbue 🐱‍💻 a tech enthusiast intrested in working on innovative projects. 
 
 ### You can reach me at
-- 📧 Email: philixbob@gmail.com
-- ☎ Call: +2348108850572
-- Whatsapp: +2348108850572
-- [🌐  Visit Portfolio - www.philix.dev](https://philix.dev)
+- philixbob@gmail.com
+- WhatsApp: +2348108850572
+- [LinkedIn Profile](https://www.linkedin.com/in/eligbue-felix/)
+- [Portfolio](https://philix.dev)
 
 ### Languages
 - Typescript, Javscript, Dart, Golang & Rust
@@ -16,8 +16,7 @@
 - Frontend: NextJS
 - Backend: NestJS, NodeJS
 - Mobile: Flutter
-- Backend:  Go Fiber
-- WASM
+- Rust
 
 <!-- ### Top used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philix27&count_private=true)](https://github.com/Philix27/github-readme-stats) -->
