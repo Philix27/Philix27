@@ -7,7 +7,7 @@
 - philixbob@gmail.com
 - WhatsApp: +2348108850572
 - [LinkedIn Profile](https://www.linkedin.com/in/eligbue-felix/)
-- [Portfolio](https://philix.dev)
+- [Portfolio](https://philix.vercel.app/)
 
 ### Languages
 - Typescript, Javscript, Dart, Golang & Rust
